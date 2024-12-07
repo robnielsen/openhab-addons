@@ -310,7 +310,7 @@ Pairing codes and other options can be found in the MainUI under "Settings -> Ad
 | OnOff Light        | Switch, Dimmer                | OnOffLight        |                                              |                       |
 | Dimmable Light     | Dimmer                        | DimmableLight     |                                              |                       |
 | Color Light        | Color                         | ColorLight        |                                              |                       |
-| Plug In Unit       | Switch, Dimmer                | PlugInUnit        |                                              |                       |
+| Plug In Unit       | Switch, Dimmer                | OnOffPlugInUnit   |                                              |                       |
 | Thermostat         | Group                         | Thermostat        |                                              |                       |
 | Window Covering    | Rollershutter, Dimmer, Switch | WindowCovering    | String types: [OPEN="OPEN", CLOSED="CLOSED"] |                       |
 | Temperature Sensor | Number                        | TemperatureSensor |                                              |                       |
